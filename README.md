@@ -4,7 +4,7 @@
 
 [![GNU License](https://img.shields.io/badge/License-GNU-green.svg)](https://choosealicense.com/licenses/gnu/)
 
-![Preview](https://github.com/JumpDigitalStudio/JumpDigitalStudio/blob/master/repo-previews/transvertum.png)
+![Preview](https://github.com/JumpDigitalStudio/JumpDigitalStudio/blob/master/repo-previews/gulp-build.svg)
 
 ## Authors
 

@@ -1,6 +1,6 @@
 # Gulp Build 2023
 
-Оптимизированная сборка HTML с использованием File Include, сборка и минификация CSS на базе SASS, модульный JS на базе Webpack, сжатие изображений.
+Optimized HTML assembly using File Include, SASS-based CSS assembly and minification, Webpack-based modular JS, image compression.
 
 ## Authors
 
